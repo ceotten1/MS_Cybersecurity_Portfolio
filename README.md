@@ -1,2 +1,2 @@
-# MS_Cybersecurity-Portfolio
-Otten-MS_Cybersecurity-Portfolio
+# MS_Cybersecurity_Portfolio
+Otten-MS_Cybersecurity_Portfolio
